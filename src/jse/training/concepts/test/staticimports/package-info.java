@@ -1,0 +1,1 @@
+package jse.training.concepts.test.staticimports;
